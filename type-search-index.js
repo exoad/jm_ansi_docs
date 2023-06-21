@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"com.jackmeng.ansicolors","l":"jm_Ansi._ansi"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.jackmeng.ansicolors","l":"jm_Ansi"},{"p":"com.jackmeng.ansicolors.samples","l":"Logo"}];updateSearchResults();
